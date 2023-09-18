@@ -1,0 +1,9 @@
+
+<Scanner>
+<filter>
+{
+  "op":"EQUAL", "type":"RowFilter",
+  "comparator":{"type":"BinaryPrefixComparator", "value":"ZmRmMzliM2Y5ZGI2ZTZjYmYzNTNhZWExNjBmODg2ZDM="}
+}
+</filter>
+</Scanner>
